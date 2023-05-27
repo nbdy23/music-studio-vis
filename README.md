@@ -1,4 +1,5 @@
 # Music-Studio-Visualizer
+----
 Enables pyaudio to visualzie music sounds
 ---- 
 
